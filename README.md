@@ -1,0 +1,2 @@
+# TypeScript
+typescript cơ bản
